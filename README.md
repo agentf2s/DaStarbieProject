@@ -12,6 +12,7 @@ A tamagotchi style thing that responds to the way you move and the buttons you c
 It's super duper cool.
 
 *How*
+
 Use the PCB Designs uploaded and get them printed, and use arduino IDE to upload the firmware to the esp32. Should be simple enough.
 
 
