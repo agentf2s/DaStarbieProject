@@ -1,4 +1,4 @@
-Item, amount, Unit (usd), Link
+Item, amount, cost (usd), Link
 XIAO ESP32 C3, 1, 14.47, https://www.or97.com/product/seeed-studio-xiao-esp32c3-risc-v-tiny-mcu-board-with-wi-fi-and-bluetooth5-0/
 0.96 OLED, 1, 1.81, https://digilog.pk/products/arduino-0-96-inch-iic-oled-display-128x64-i2c-ssd1306-lcd-screen-in-pakistan
 MPU6050, 1, 1.37, https://electrobes.com/product/mpu6050-gy-521-6dof-3-axis-analog-gyro-sensor-3-axis-accelerometer-module/
